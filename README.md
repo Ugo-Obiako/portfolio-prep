@@ -1,7 +1,7 @@
 # portfolio-prep
 
 # Ugo Obiako
-##Software Developer
+## Software Developer
 ## Seattle, WA
 
 ### This portfolio prep page is still under construction.
